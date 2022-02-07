@@ -15,7 +15,7 @@ public class Ex2_3 {
 
 
         // 변수에 저장해서 연산하면 훨씬 더 간편해진다.
-        int x = 5; int y = 3;
+        int x = 5; int y = 3; //변수의 선언과 대입을 한번에 가능. int x; x = 5; >> int x = 5;
         System.out.println(x+y);
         System.out.println(x-y);
         System.out.println(x*y);
